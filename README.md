@@ -1,16 +1,16 @@
-# projeto_quiz
+# Quiz de Programação em Dart
 
-A new Flutter project.
+Este é o meu primeiro projeto e contato com Dart e Flutter para solidar a linguagem para desenvolvimento de futuros projetos.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Apresenta uma série de perguntas sobre programação.
+- O usuário seleciona a resposta de cada pergunta.
+- No final do quiz, é apresentado o resultado com base nas respostas do usuário.
+- O usuário tem a opção de reiniciar o quiz.
 
-A few resources to get you started if this is your first Flutter project:
+## Como executar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone este repositório.
+2. Navegue até a pasta do projeto.
+3. Execute `flutter run` para iniciar o aplicativo.

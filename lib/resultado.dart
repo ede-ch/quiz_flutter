@@ -43,7 +43,6 @@ class Resultado extends StatelessWidget{
                 fontSize: 22,
                 fontWeight: FontWeight.bold,
                 color: Color.fromARGB(255, 43, 37, 89),
-                borderRadius: BorderRadius.circular(12
               ),
             ),
             onPressed: quandoReiniciarQuestionario,
